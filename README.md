@@ -15,7 +15,7 @@ Before training the model, you will need to download the ASL Alphabet dataset fr
 Next, you will need to preprocess the data by running the cells in the notebook that perform the following tasks:
 
 * Convert the images to grayscale
-* Resize the images to 28x28 pixels
+* Resize the images to 64x64 pixels
 * Split the data into training and test sets
 * Training the Model: 
 To train the model, run the cells in the notebook that define the model architecture and compile the model. Then, run the cell that trains the model on the ASL Alphabet dataset using TensorFlow. The notebook will also save the trained model to a file in the models directory.
