@@ -3,7 +3,7 @@
 This project uses the [ASL Alphabet dataset](https://www.kaggle.com/grassknoted/asl-alphabet) from Kaggle to train a model for classifying American Sign Language (ASL) alphabet gestures. The dataset consists of 87,000 labeled images of ASL alphabet gestures, with a resolution of 200x200 pixels.
 
 ## Google Colab
-To run this project, you can use the provided Google Colab notebook ```asl.ipynb```. This notebook contains all the required code and instructions for training the model and evaluating its performance.
+To run this project, you can use the provided Google Colab notebook ```asl_rev01.ipynb```. This notebook contains all the required code and instructions for training the model and evaluating its performance.
 
 ### To use the notebook, you will need to:
 
